@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/* adding css to div for background */
 .box{
     width: 100%;
     height: 100dvh;
@@ -11,6 +12,7 @@
     background-repeat: no-repeat;
     
 }
+/* adding css to text */
 .box .blur{
     color: aliceblue;
     text-align: center;
